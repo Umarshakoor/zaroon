@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674096357358",
+    "project_id": "zaroon-3f2ae",
+    "storage_bucket": "zaroon-3f2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674096357358:android:c6eba267724a489a64f8ff",
+        "android_client_info": {
+          "package_name": "com.idlogixtech.zaroon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNY8oMAIKdcT0aBBSCzs1WFW1jb9ziaXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
